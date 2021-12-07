@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atrykp&label=Profile%20views&color=0e75b6&style=flat" alt="atrykp" /> </p>
 
 - 🔭 I’m currently working on **DevCor**
 
-- 🌱 I’m currently learning **Apollo GraphQl**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **React**
 
