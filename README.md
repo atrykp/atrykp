@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atrykp&label=Profile%20views&color=0e75b6&style=flat" alt="atrykp" /> </p>
 
-- 🔭 I’m currently working on **DevCor**
 
 - 🌱 I’m currently learning **Go**
 
