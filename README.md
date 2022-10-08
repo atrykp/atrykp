@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atrykp&label=Profile%20views&color=0e75b6&style=flat" alt="atrykp" /> </p>
 
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** **Kubernetes**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next JS**
 
 - 📫 How to reach me **patryk.plaza@o2.pl**
 <br/><br/>
