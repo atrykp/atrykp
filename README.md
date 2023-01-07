@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go** **Kubernetes**
 
-- 💬 Ask me about **Next JS**
+- 💬 Ask me about **Next JS** **Golang**
 
 - 📫 How to reach me **patryk.plaza@o2.pl**
 <br/><br/>
